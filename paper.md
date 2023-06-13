@@ -12,3 +12,7 @@ And then something happened blahblahblah.
 and then lalallala iit is 10:47 now 
 
 new stuff
+
+# Results 
+The simulation indicate that coagulation is the dominant growth mechanism for these particles.
+
