@@ -1,8 +1,9 @@
 # Title
-Evolution of someone into something at sometime in someplaces 
+Simulation 
 
 # Author
-Linyi
+Linyi 
+This one 
 
 # Introduction
 The study on someone into something at sometime in someplaces is conducted.
